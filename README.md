@@ -7,4 +7,6 @@ I''m happy with the site, unfortuntately I ran out of time but I'll be revisitin
   
   However despite not getting everything I wanted done I'm still very pleased with the site.
   
+  The background image I created in Photoshop using mostly the brush tool.
+  
   Because I don't have much web portfolio work yet I used my motion graphics showreel as the primary portfolio piece.
